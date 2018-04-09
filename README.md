@@ -1,3 +1,2 @@
-#Foodlery
 
-## Galería de imágenes con Angular 5
+## Foodlery: galería de imágenes con Angular 5
